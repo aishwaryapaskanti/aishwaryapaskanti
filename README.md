@@ -1,4 +1,4 @@
-## Hello ! Welcome to my Portfolio👋
+## 👋 Welcome ! I'm glad you're here to explore my work
 
 <!--
 **aishwaryapaskanti/aishwaryapaskanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
