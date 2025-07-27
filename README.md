@@ -300,7 +300,7 @@ __Learning Keys:__
  - Control cursor, create custom symbols, and format strings on LCD.
  - Design real-time logic flows like counters, clocks, and simulators.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Microcontroller_8051)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/Microcontroller_8051)__
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## 🌐 Let’s Connect!
