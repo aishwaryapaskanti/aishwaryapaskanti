@@ -93,7 +93,7 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/my_ls_command)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-__Module LINUX : Chatting Application Using FIFO (Named Pipes) and IPC in C.__
+__Module LINUX : Chatting Application Using FIFO (Named Pipes) and IPC in C__
 
 __Objective:__ To design and implement a two-way communication system between two users using FIFO (Named Pipes), enabling them to chat in real-time through inter-process communication in a Linux environment.
 
@@ -110,27 +110,21 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/MINI_PROJECT_LINUX)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Module TCPIP: ._*TCP BASED CHATING APPLICATION.**
+__Module TCP/IP : TCP BASED CHATING APPLICATION__
 
-**_Objective:_ **implement chating application to allow two persons for chating over a network i.e.., CLIENT1 and CLIENT2 , with help of SOCKET programming by using TCP protocols. .
+__Objective:__ implement chating application to allow two persons for chating over a network i.e.., CLIENT1 and CLIENT2 , with help of SOCKET programming by using TCP protocols. .
 
-**_Learning Keys:_
-**
+__Learning Keys:__
+
  - Understand TCP/IP and socket programming basics.
-
  - Use functions: socket(), bind(), listen(), accept(), connect(), send(), recv().
-
  - Implement client-server model with bi-directional communication.
-
  - Handle threads or select() for simultaneous send/receive.
-
  - Manage message buffers and proper error handling.
-
  - Use IP, ports, and test via localhost or LAN.**
- - 
+   
 __📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/TCP-IP_MINI_PROJECT)__
-
-_____________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________
 
 __Module ARM :⏱️ The Time-Driven Access Control System.__
