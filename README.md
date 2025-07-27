@@ -42,7 +42,7 @@ __Learning Keys:__
  - Gained understanding of code organization, debugging, and testing in a real-world project structure.
  - Enhanced logic-building and problem-solving through C-based system-level programming.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Library_Management_System)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/Library_Management_System)__
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C++ : Student Database using C++ Programming__
