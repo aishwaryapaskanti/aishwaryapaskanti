@@ -90,7 +90,7 @@ __Learning Keys:__
  - Owner and Group Resolution: Applied getpwuid() and getgrgid() to convert UID and GID to readable names.
  - Formatted Output: Practiced structuring output similar to ls -l using strftime() and formatted printing.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/my_ls_command)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/my_ls_command)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX : Chatting Application Using FIFO (Named Pipes) and IPC in C.__
