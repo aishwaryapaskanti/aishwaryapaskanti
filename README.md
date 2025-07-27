@@ -110,12 +110,12 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/MINI_PROJECT_LINUX)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**Module TCPIP: ._*TCP BASED CHATING APPLICATION.*
+**Module TCPIP: ._*TCP BASED CHATING APPLICATION.**
 
-_Objective:_ implement chating application to allow two persons for chating over a network i.e.., CLIENT1 and CLIENT2 , with help of SOCKET programming by using TCP protocols. .
+**_Objective:_ **implement chating application to allow two persons for chating over a network i.e.., CLIENT1 and CLIENT2 , with help of SOCKET programming by using TCP protocols. .
 
-_Learning Keys:_
-
+**_Learning Keys:_
+**
  - Understand TCP/IP and socket programming basics.
 
  - Use functions: socket(), bind(), listen(), accept(), connect(), send(), recv().
