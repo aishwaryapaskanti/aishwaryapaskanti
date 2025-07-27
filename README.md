@@ -107,7 +107,7 @@ __Learning Keys:__
 - User Input/Output Handling: Using fgets() for safe input and fflush(stdout) for clean output display.
 - Concurrency Basics: Understanding concurrent execution of send/receive through parent-child process splitting.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/MINI_PROJECT_LINUX)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/MINI_PROJECT_LINUX)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Module TCPIP: ._*TCP BASED CHATING APPLICATION.*
@@ -145,7 +145,7 @@ __Learning Keys:__
  - LCD and User Interface: Learn to display real-time information (like date, time, and access status) on a 16x2 or 20x4 LCD and provide a user-friendly interface for password entry and settings modification.
  - System Integration: Integrate all components (LPC2148 microcontroller, RTC, LCD, Keypad, and Buzzer/LED) to build a complete access control system that works under scheduled conditions.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/Time_Driven_Access_Control_System)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -194,7 +194,7 @@ __Learning Keys:__
  - Modular Design: Split large code into reusable functions and separate files.
  - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/ARM7_LPC2148)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/ARM_LPC2148)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 ARM7 LPC2129__
@@ -241,7 +241,7 @@ __Learning Keys:__
  - Modular Design: Split large code into reusable functions and separate files.
  - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/ARM_LPC2129)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/ARM_LPC2129)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 Microcontroller AT89S52(8051)__
