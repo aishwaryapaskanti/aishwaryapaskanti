@@ -70,7 +70,7 @@ __Learning Keys:__
  - Designed a modular C++ project with well-organized source files (main.cpp, accounts.cpp, file_operations.cpp, banking.h).
  - Developed a menu-driven interface for user-friendly interaction supporting core banking operations and transaction tracking.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Bank_managment_system_using_cpp)__
+__📁 View Project: 🔗[Link](https://github.com/aishwaryapaskanti/Bank_Management_System_Using_CPP)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX : Implementation of a Basic ls -l Command in C__
